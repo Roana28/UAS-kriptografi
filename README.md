@@ -75,6 +75,7 @@ Sebelum putaran pertama dan setelah putaran terakhir, terjadi inisialisasi awal 
 ## Tangkapan Layar
 
 ![1KRIPTO](https://github.com/user-attachments/assets/9ee0f271-55fc-49f5-b347-0055b339a84d)
+![2KRIPTO](https://github.com/user-attachments/assets/cb963753-5903-4929-a569-93183a077d85)
 
 - Nama: Roana
 - Kelas: TI.22.C1
