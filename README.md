@@ -74,7 +74,8 @@ Sebelum putaran pertama dan setelah putaran terakhir, terjadi inisialisasi awal 
 
 ## Tangkapan Layar
 
-![hasil](https://github.com/BukanMakmum/AdvancedEncryptionStandard/assets/32379649/82ae22ac-3e7f-4df9-9378-39433aa1e754)
+![hasil](![1KRIPTO](https://github.com/user-attachments/assets/9ee0f271-55fc-49f5-b347-0055b339a84d)
+)
 
 - Nama: Roana
 - Kelas: TI.22.C1
