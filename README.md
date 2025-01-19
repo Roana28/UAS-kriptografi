@@ -1,4 +1,4 @@
-#UAS Kriptografi 
+# UAS Kriptografi 
 ## Enkripsi dan Dekripsi AES
 
 Implementasi sederhana algoritma Advanced Encryption Standard (AES) menggunakan Python dan pustaka Tkinter untuk antarmuka pengguna grafis. Advanced Encryption Standard (AES) versi Education merupakan skrip yang dikembangkan untuk pembelajaran proses enkripsi dan dekripsi menggunakan AES.
