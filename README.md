@@ -4,16 +4,6 @@
 Implementasi sederhana algoritma Advanced Encryption Standard (AES) menggunakan Python dan pustaka Tkinter untuk antarmuka pengguna grafis. Advanced Encryption Standard (AES) versi Education merupakan skrip yang dikembangkan untuk pembelajaran proses enkripsi dan dekripsi menggunakan AES.
 
 
-## Daftar Isi
-
-- [Pendahuluan](#pendahuluan)
-- [Fitur](#fitur)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Tangkapan Layar](#tangkapan-layar)
-- [Lisensi](#lisensi)
-- [Kontak](#kontak)
-
 ## Pendahuluan
 
 AES (Advanced Encryption Standard) adalah sebuah algoritma enkripsi kunci simetris yang digunakan secara luas untuk mengamankan data dalam berbagai aplikasi keamanan komputer. AES telah digunakan secara internasional sebagai pengganti algoritma DES (Data Encryption Standard) yang lebih lama. AES mendukung kunci enkripsi dengan panjang 128 bit, 192 bit, atau 256 bit. 
